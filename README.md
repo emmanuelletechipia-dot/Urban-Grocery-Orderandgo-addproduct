@@ -22,13 +22,16 @@ Este trabajo me permitió optimizar pruebas funcionales en API por medio de POST
 
 ---
 
-**Enlace:** [Documentación](https://drive.google.com/drive/folders/1CB_hCkXB2neN_tdalKtezqomqovXtfYQ?usp=drive_link])
+**Enlace:** [Documentación](https://drive.google.com/drive/folders/1Dges0htKGByVfe2SjmHj4xr4ugS2i-Pf?usp=drive_link)
 
 Se diseñaron 31 Casos de prueba para agregar productos a un kit.
 
+
 <img width="693" height="758" alt="image" src="https://github.com/user-attachments/assets/ccee4a53-1a8c-4795-8ee9-93348e5a9888" />
 
+
 Se diseñaron 49 casos de prueba para Order&Go delivery
+
 
 <img width="700" height="656" alt="image" src="https://github.com/user-attachments/assets/a1045cb4-c0f7-4034-9c76-cc442082a2c9" />
 
