@@ -1,4 +1,4 @@
-# 🍔 Urban-Grocery-Orderandgo-addproduct
+# 🍔 Urban-Grocery-Order&dgo-addproduct
 Proyecto de API Testing en la aplicacion de urban grocerys por medio de POSTMAN
 
 Validé la calidad de una aplicación web  para reservar viajes compartidos. Se analizaron los requisitos de diseño y funcionalidad, diseñé pruebas aplicando técnicas como **partición de equivalencias** y **valores límite**, y validé la integración de datos con **POSTMAN** en dos diferentes navegadores, asegurando precisión en los flujos backend y front-end.
@@ -7,8 +7,8 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
 
 ### Resultados destacados:
 
-* 🧪 Diseñé y ejecuté **122 casos de prueba y listas de comprobacion** para validaciones de Devtools.
-* 🔗 Se probaron  **2 Navegadores a 2 Resoluciones distintas ** (Chrome 149.0.7827.197(800x600) Usando Devtools y Firefox 152.0.3(1920x1080)
+* 🧪 Diseñé y ejecuté **80 casos de prueba ** para validaciones de backend con POSTMAN.
+* 🔗 Se probaron  **2 funcionalidades distintas ** (Add Product y Order&GO)
 * 🐞 Reporté **43 errores** documentados en **JIRA**
 
 ### Aptitudes:
@@ -16,7 +16,7 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
 ![Jira](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Manual Testing](https://img.shields.io/badge/MANUAL_TESTING-007ACC?style=for-the-badge&logoColor=white)
 ![Test Planning](https://img.shields.io/badge/TEST_PLANNING-1F88E5?style=for-the-badge&logoColor=white)
-![DevTools](https://img.shields.io/badge/DEVTOOLS-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
