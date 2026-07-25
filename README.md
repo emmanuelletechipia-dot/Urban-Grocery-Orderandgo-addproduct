@@ -10,6 +10,7 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
 * 🧪 Diseñé y ejecuté **80 casos de prueba ** para validaciones de backend con POSTMAN.
 * 🔗 Se probaron  **2 funcionalidades distintas ** (Add Product y Order&GO)
 * 🐞 Reporté **43 errores** documentados en **JIRA**
+* 🍔 Se uso el metodo POST.
 
 ### Aptitudes:
 
@@ -17,11 +18,14 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
 ![Manual Testing](https://img.shields.io/badge/MANUAL_TESTING-007ACC?style=for-the-badge&logoColor=white)
 ![Test Planning](https://img.shields.io/badge/TEST_PLANNING-1F88E5?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
 **Enlace:** [Documentación](https://drive.google.com/drive/folders/1CB_hCkXB2neN_tdalKtezqomqovXtfYQ?usp=drive_link])
 
-Se diseñaron listas de comprobacionpara los requisitos de diseño dados en FIGMA 
-<img width="918" height="662" alt="image" src="https://github.com/user-attachments/assets/dedbd479-1819-4f86-bcb5-713a9552a3de" />
-Se diseñaron listas de comprobacion y casos de prueba para los requisitos de funcionalidad de Reservar un auto el cual tenia dos grandes campos:
+Se diseñaron 31 Casos de prueba para agregar productos a un kit.
+<img width="693" height="758" alt="image" src="https://github.com/user-attachments/assets/ccee4a53-1a8c-4795-8ee9-93348e5a9888" />
+Se diseñaron 49 casos de prueba para Order&Go delivery
+<img width="700" height="656" alt="image" src="https://github.com/user-attachments/assets/a1045cb4-c0f7-4034-9c76-cc442082a2c9" />
+
